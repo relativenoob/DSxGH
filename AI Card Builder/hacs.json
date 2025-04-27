@@ -1,0 +1,12 @@
+{
+  "name": "AI Card Builder",
+  "content_in_root": false,
+  "domains": [
+    "ai_card_builder"
+  ],
+  "country": "GB",
+  "homeassistant": "2024.4.0",
+  "render_readme": true,
+  "description": "An AI-powered Lovelace card builder for Home Assistant using Assist.",
+  "filename": "custom_components/ai_card_builder/manifest.json"
+}

@@ -1,0 +1,11 @@
+generate_card:
+  name: Generate Lovelace card YAML
+  description: "Ask Assist to generate YAML for a card based on a free-form prompt."
+  fields:
+    prompt:
+      name: Prompt
+      description: "Describe what the card should display in natural language."
+      required: true
+      example: "Show me a graph of the living-room temperature for the past 24 hours"
+      selector:
+        text:

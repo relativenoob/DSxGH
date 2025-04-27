@@ -1,0 +1,12 @@
+{
+  "domain": "ai_card_builder",
+  "name": "AI Card Builder",
+  "version": "0.1.0",
+  "documentation": "https://github.com/your-org/ai-card-builder",
+  "requirements": [
+    "PyYAML~=6.0"
+  ],
+  "codeowners": [
+    "@your-github"
+  ]
+}
